@@ -10,7 +10,6 @@
 	.et_pb_fullwidth_section {padding: 0;}}
 h1, h2, h3, h4, h5, h6 {font-family: "Montserrat",Helvetica,Arial,Lucida,sans-serif;}
 body, input, textarea, select {font-family: "Poppins",Helvetica,Arial,Lucida,sans-serif;}
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
 ul {padding: 0;list-style: none;}
 .footer-social-icons {width: 350px;display: block;margin: 0 auto;}
 .social-icon {color: #fff;}
@@ -21,8 +20,8 @@ ul.social-icons {margin-top: 10px;}
 .fa-facebook:hover {background-color: #3d5b99;}
 .fa-twitter {padding: 10px 12px;-o-transition: .5s;-ms-transition: .5s;-moz-transition: .5s;-webkit-transition: .5s;transition: .5s;background-color: #322f30;}
 .fa-twitter:hover {background-color: #00aced;}
-.fa-whatsapp {padding: 10px 12px;-o-transition: .5s;-ms-transition: .5s;-moz-transition: .5s;-webkit-transition: .5s;transition: .5s;background-color: #322f30;}
-.fa-whatsapp:hover {background-color: #42a427;}
+.whats2 {padding: 10px 12px;-o-transition: .5s;-ms-transition: .5s;-moz-transition: .5s;-webkit-transition: .5s;transition: .5s;background-color: #322f30;}
+.whats2:hover {background-color: #42a427;}
 .fa-dribbble {padding: 10px 12px;-o-transition: .5s;-ms-transition: .5s;-moz-transition: .5s;-webkit-transition: .5s;transition: .5s;background-color: #322f30;}
 .fa-dribbble:hover {background-color: #9f27a4;}
 .fa-rss {padding: 10px 14px;-o-transition: .5s;-ms-transition: .5s;-moz-transition: .5s;-webkit-transition: .5s;transition: .5s;background-color: #322f30;}
